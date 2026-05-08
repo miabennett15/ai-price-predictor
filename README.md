@@ -25,3 +25,6 @@
 
 `# Bitcoin, 10-day forecast, 10 years of history`
 `python currency_predictor.py --pair BTC-USD --period 10y --days 10`
+
+## Output
+![Dashboard screenshot](prediction_report.png)
